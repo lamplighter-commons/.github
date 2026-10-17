@@ -20,4 +20,12 @@ Runs in your browser with no installation. The interface is currently in Chinese
 
 ## Get involved
 
-Found a bug or have an idea? [Open an issue](https://github.com/lamplighter-commons/triangle-light-maze-solver/issues). Improvements to the tools and their documentation are welcome.
+Found a bug or have an idea? [Open an issue](https://github.com/lamplighter-commons/triangle-light-maze-solver/issues/new/choose). Improvements to the tools and their documentation are welcome; see the [contribution guide](https://github.com/lamplighter-commons/.github/blob/main/CONTRIBUTING.md) to get started.
+
+If a project helps you, star it or share it with someone who might find it useful. You can also contribute examples, report problems, or improve an explanation. English and Chinese are both welcome in issues and pull requests.
+
+## Maintainer
+
+[Jingming Liang](https://github.com/eprogressing) · [Website](https://www.jingmingliang2004.com/) · [Email](mailto:liangjm@nbjl.nankai.edu.cn)
+
+For project questions, please use the relevant repository's issues so others can follow the discussion.
